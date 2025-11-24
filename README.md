@@ -1,1 +1,1 @@
-# Sol
+# Christmas game
